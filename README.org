@@ -59,3 +59,15 @@ Find the top three Elves carrying the most Calories. How many Calories are those
 #+ATTR_HTML: :height 1000px
 #+NAME:   fig:SED-HR4049
 [[./img/breaking_down_the_problem.png]]
+
+* Experience solving challenges
+This was a fun thing to attempt. This is my first time taking part in a AoC challenge and I wasn't sure what to expect. I'm also new to rust having only been learning it for the past three weeks or so, so I wasn't very sure how far I'd get.
+I decided to start off by trying to remove as much uncertainty as I could by thinking about the problem from a high level so I decided to only think about the steps that the data needed to go through to get the outcome desired and then sweat about the details later. I decided to to take a visual approach and just draw out the shape of the data in the diagrams above.
+
+Once I felt that I had a direction clear in my mind I went to work. It took a bit of googling around and a lot of trolling the rust docs but I found the methods from the standard library that I needed to get to a solution. I decided to forfit on test along the way due to limited time, as I only have a little bit of time in the evening to tackle these.
+
+I was very surprised at how quickly I got to a working solution. Having some experience in C and C++ and having done a little IO with it hear and there I don't think I would have got a working program this quickly. Rust is really like low level scripting and it's really enjoyable to write.
+
+I wish I had gotten far enough into the resources that I have been going through to have come up with a multi-threaded solution. I would also like to in the future make this a more stable solution that could work on files with erroneous values. Maybe in the coming year I'll dedicate some time to improve on these solutions that I will be attempting in the next few days.
+
+All in all, this was really good to practice some Rust and I'm looking forward to the challenges that are to come.
