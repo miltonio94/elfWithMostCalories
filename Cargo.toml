@@ -1,5 +1,5 @@
 [package]
-name = "elfWithMostCalories"
+name = "elf_with_most_calories"
 version = "0.1.0"
 edition = "2021"
 
