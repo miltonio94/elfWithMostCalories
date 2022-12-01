@@ -14,10 +14,6 @@ pub fn run(file_path: String) -> Result<(), Box<dyn Error>> {
 
     let reverse_sorted: Vec<&i32> = summed_chunks.iter().rev().collect();
 
-    for number in &reverse_sorted {
-        println!("{}", number.to_string());
-    }
-
     let (first, second, third) = (reverse_sorted[0], reverse_sorted[1], reverse_sorted[2]);
 
     println!(
