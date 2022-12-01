@@ -45,6 +45,6 @@ Find the Elf carrying the most Calories. How many total Calories is that Elf car
 
 * Breaking Down the problem
 #+CAPTION: This is the caption for the next figure link (or table)
-#+ATTR_HTML: :width 1920px
+#+ATTR_HTML: :height 1000px
 #+NAME:   fig:SED-HR4049
 [[./img/breaking_down_the_problem.png]]
